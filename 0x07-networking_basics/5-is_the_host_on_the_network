@@ -1,1 +1,3 @@
 #!/usr/bin/env bash
+# pinging the address
+ping -c 5 
